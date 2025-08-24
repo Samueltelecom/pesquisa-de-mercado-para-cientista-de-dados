@@ -19,7 +19,9 @@ O relatório inclui:
 
 ## 📥 Acesse o Relatório
 
-Você pode visualizar ou baixar o relatório completo em PDF [clicando aqui] ([https://github.com/Samueltelecom/pesquisa-de-mercado-para-cientista-de-dados/blob/main/pesquisa%20de%20mercado.pdf]).
+## 📥 Acesse o Relatório
+
+Você pode visualizar ou baixar o relatório completo em PDF [clicando aqui](https://github.com/Samueltelecom/pesquisa-de-mercado-para-cientista-de-dados/raw/main/pesquisa%20de%20mercado.pdf).
 
 ## 🚀 Para quem é este material?
 
